@@ -23,7 +23,8 @@
 
 
 ## 💡 동작흐름
-<img width="1259" height="332" alt="image" src="https://github.com/user-attachments/assets/38f8ddf9-9ebe-4bfb-8c70-6a20f9eea29a" />
+<img width="911" height="305" alt="image" src="https://github.com/user-attachments/assets/9c4d5f05-22b2-4a14-913b-da060e8b8e84" />
+
 
 
 ## 💡 문제 해결 경험
